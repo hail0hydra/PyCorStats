@@ -1,5 +1,7 @@
 # PyCorStats
 
+![logo](./logo.jpg)
+
 <br>
 <br>
 <br>
