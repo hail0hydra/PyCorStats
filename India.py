@@ -1,5 +1,4 @@
 import requests
-import time
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 
@@ -24,7 +23,3 @@ if table:
             print(tabulate(table_data, tablefmt="fancy_grid"))
 else:
     print("Table not found.")
-
-time.sleep(5)
-
-input("Press Enter to exit...")

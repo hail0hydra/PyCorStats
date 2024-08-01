@@ -1,5 +1,4 @@
 import requests
-import time
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 import pandas as pd
@@ -31,8 +30,3 @@ if table:
 
 else:
     print("Table not found.")
-
-time.sleep(5)
-
-input("Press Enter to exit...")
-

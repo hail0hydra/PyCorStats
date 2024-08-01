@@ -19,3 +19,46 @@
 <br>
 
 - Produces ouput in a tabular form using `data frames` in pandas and __tabulate__ module.
+
+<br>
+<br>
+<br>
+
+---
+
+<br>
+<br>
+<br>
+
+## Installation
+
+<br>
+
+- create a virtual environment
+
+<br>
+
+```shell
+python3 -m venv venv
+```
+
+<br>
+
+- install requirements
+
+<br>
+
+```
+pip install -r requirements.txt
+```
+
+---
+
+
+<br>
+<br>
+<br>
+
+- execute any of the python files and see the data!
+
+
